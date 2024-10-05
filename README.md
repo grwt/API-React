@@ -1,4 +1,5 @@
-Fetching Data from API'S in ReactJS
+Fetching Data from API'S in ReactJS : 
+In this Repo I fetched Data from two random API's and render their data on the web page.
 
 
 
